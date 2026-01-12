@@ -1,4 +1,7 @@
 "Team Favorite Foods":
+chocolate
+ice cream
 Lasagna
 Lefse
+nachos
 Rosettbakkels
