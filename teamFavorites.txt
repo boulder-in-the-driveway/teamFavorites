@@ -1,15 +1,16 @@
 "Team Favorite Foods":
+apples
+burger
 cake
 chocolate
-Enchiladas
-burger
-chocolate
 eggs
+Enchiladas
 ice cream
 Lasagna
 Lefse
 Muffins
 nachos
+pretzels
 Ramen
 Rosettbakkels
 salmon
