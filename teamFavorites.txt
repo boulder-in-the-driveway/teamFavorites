@@ -1,9 +1,12 @@
 "Team Favorite Foods":
+apples
 chocolate
 ice cream
 Lasagna
 Lefse
+muffins
 nachos
+pretzels
 Ramen
 Rosettbakkels
 Tacos
