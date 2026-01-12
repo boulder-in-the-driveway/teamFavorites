@@ -1,1 +1,4 @@
 "Team Favorite Foods":
+chocolate
+ice cream
+nachos
