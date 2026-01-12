@@ -1,13 +1,18 @@
 "Team Favorite Foods":
 apples
+burger
+cake
 chocolate
+eggs
+Enchiladas
 ice cream
 Lasagna
 Lefse
-muffins
+Muffins
 nachos
 pretzels
 Ramen
 Rosettbakkels
+salmon
 Tacos
 Udon
